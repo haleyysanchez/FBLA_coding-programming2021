@@ -9,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 * Download this repository as a zip file
 * Open the whole folder ('FBLA_coding-programming2021-master') as a project in your preferred IDE
 * Open the 'main.py'
-* Uncomment lines 18-30 and lines 74-102
+* Uncomment lines 19-86
 * Then run the program for the first time
-* After running the program once comment lines 18-30 and lines 74-102 so that you dont enter that data into the database twice or create a second questions table
+* After running the program once comment lines 19-86 so that you do not enter the data into the database twice or create a second questions table
 
 ### Prerequisites
 
