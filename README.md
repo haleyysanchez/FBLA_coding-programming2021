@@ -1,6 +1,6 @@
 # FBLA_coding-programming2021
 
-This repository is for my FBLA coding and programming competition project for the 2020-2021 school year. The topic of the program was to be able to randomly generate 5 question FBLA quizzes and store the information persistently. The program utilized Tkinter to code the GUI and sqlite3 to manage the relational database. 
+This repository is for my FBLA coding and programming competitive event project for the 2020-2021 school year. The topic of the program was to be able to randomly generate 5 question FBLA quizzes and store the information persistently. The program utilizes Tkinter to code the GUI and sqlite3 to manage the relational database. 
 
 ## Getting Started
 
